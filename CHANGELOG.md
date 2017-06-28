@@ -1,3 +1,7 @@
+#2.22.6
+
+* Optimize ui-tree `dragDelay` for components with isolated scope [#918](https://github.com/angular-ui-tree/angular-ui-tree/issues/918) 
+
 #2.22.5
 
 * Move postinstall hook to pretest [#907](https://github.com/angular-ui-tree/angular-ui-tree/issues/907)
